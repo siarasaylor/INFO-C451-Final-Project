@@ -1,0 +1,4 @@
+001//Indianapolis//317-875-6758//1234 Shadeland Ave//Indianapolis//IN//46256//M-F 9AM-6PM
+002//Washington St//317-875-9867//4563 Washington Street//Indianapolis//IN//46229//M-F 9AM-6PM
+003//Fishers//317-875-1234//9000 116th Street//Fishers//IN//46038//M-F 9AM-6PM
+004//Avon//317-875-4356//6574 10th Street//Avon//IN//46123//M-F 9AM-6PM

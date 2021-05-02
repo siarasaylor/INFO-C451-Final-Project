@@ -1,0 +1,10 @@
+3//ssaylor24//Siara//Saylor//CareSource//Thu Apr 15 00:00:00 EDT 2021//1:15//2:00//Smith//Washington St//Preventative//In person//COVID
+4//ssaylor24//Siara//Saylor//CareSource//Fri May 21 00:00:00 EDT 2021//11:00//11:45//Dr. C Jones//Fishers//Labs//In Person//Labs for Physical in the next week. 
+5//ssaylor24//Siara//Saylor//CareSource//Thu Apr 01 00:00:00 EDT 2021//1:15//2:00//Smith//Washington St//Preventative//In person//coughing since the weekend with headaches sneezing ear aches.
+8//smanning19//Schuyler//Manning//CareSource//Wed May 19 00:00:00 EDT 2021//9:00//9:45//Dr. C Jones//Washington St//Preventitive//Zoom//Check Up Appointment
+9//ssaylor24//Siara//Saylor//CareSource//Wed Mar 31 00:00:00 EDT 2021//11:00//11:45//Dr. C Jones//Fishers//Preventitive//In Person//Check up
+15//jdoe12//Jane//Doe//CareSource//Wed Jul 21 00:00:00 EDT 2021//1:30//2:15//Dr. G Ward//Fishers//Labs//In Person//Labs for Physical in the next week. // coughing// headaches.
+12//jdoe12//Jane//Doe//Anthem//Mon Mar 29 00:00:00 EDT 2021//10:00//10:15//Dr Jones//Fishers//Preventative//In person//Labs for physical
+15//jdoe12//Jane//Doe//Anthem//Wed Jun 16 00:00:00 EDT 2021//1:30//2:15//Dr. G Ward//Fishers//Labs//In Person//Labs for Physical in the next week. 
+15795//ssaylor24//Siara//Saylor//Anthem//Mon May 03 00:00:00 EDT 2021//11:30//12:15//Dr. G Ward//Fishers//Preventative//In person//Rash on arm from COVID vaccine.
+33263//smanning19//Schuyler//Manning//CareSource//Wed Apr 28 00:00:00 EDT 2021//9:00//9:45//Dr. K Smith//Avon//Preventative//In person//had the poops for a week.
